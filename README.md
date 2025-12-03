@@ -91,7 +91,7 @@ I'm <b>EL OTMANI MOAD</b> from Morocco 🇲🇦 <br><br>
   <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" height="28" />
 
   <!-- Kanban -->
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white" height="28" />
 
   <!-- Trello -->
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="28" />
