@@ -86,13 +86,29 @@ I'm <b>EL OTMANI MOAD</b> from Morocco 🇲🇦 <br><br>
 ---
 
 #### 🔹 Project & QA
-- Scrum
-- Kanban
-- Trello
-- Swagger
-- Postman
-- SonarQube
-- UML
+<div align="left">
+  <!-- Scrum -->
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white" height="28" />
+
+  <!-- Kanban -->
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="28" />
+
+  <!-- Trello -->
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="28" />
+
+  <!-- Swagger -->
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28" />
+
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+
+  <!-- SonarQube -->
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="28" />
+
+  <!-- UML -->
+  <img src="https://img.shields.io/badge/UML-800080?style=for-the-badge&logoColor=white" height="28" />
+</div>
+
 
 ---
 
