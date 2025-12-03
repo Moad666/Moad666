@@ -107,6 +107,10 @@ I'm <b>EL OTMANI MOAD</b> from Morocco 🇲🇦 <br><br>
 
   <!-- UML -->
   <img src="https://img.shields.io/badge/UML-800080?style=for-the-badge&logoColor=white" height="28" />
+
+   <!-- Kafka -->
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="28" />
+
 </div>
 
 
