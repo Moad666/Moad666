@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/moad-el-otmani-435396383/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:moadelotmani666@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://elotmanimoad.vercel.app/" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/elotmanimoad/count.svg?" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Moad666/count.svg?" alt="Profile Views" />
 </div>
 
 ###
