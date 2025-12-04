@@ -115,9 +115,3 @@ I'm <b>EL OTMANI MOAD</b> from Morocco 🇲🇦 <br><br>
 
 
 ---
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moad666&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-</div>
